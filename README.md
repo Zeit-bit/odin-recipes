@@ -1,1 +1,2 @@
 # odin-recipes
+This first project of TOP, consists of creating a simple website of recipes with html that links between different webpages that contain different recipes with each of them having their corresponding description, ingredients list and the steps required for their elaboration. 
